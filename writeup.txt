@@ -1,0 +1,5 @@
+Would Read Task:
+I used the BPR model using the tensorflow and then I ranked the book in increading order for each user based on the BPR score; make the first half the book would not read and the second half would read
+
+Rating prediction tasks:
+I tried multiple way to do it, but the best turned out to be the SVCpp model from surpirse library. Then, I carefully tune the regularizatio parameter as well as the number of factors. 
